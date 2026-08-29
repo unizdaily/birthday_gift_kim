@@ -71,7 +71,7 @@ h1, h2, h3, h4 {
     height: 400px;
     border: 6px solid #EFB0C9;
     border-radius: 10px;
-    background-image: url("images/gift_wrap.jpg");
+    background-image: url("images/tap_to_reveal.jpg");
     background-size: cover;
 }
 
@@ -82,78 +82,96 @@ h1, h2, h3, h4 {
     aspect-ratio: 3/2;
 }
 
-.gift-img-serious:hover {
+.gift-img-serious:hover,
+.gift-img-serious:active {
     background-image: url("images/cat_serious.gif");
 }
 
-.gift-img-first-impression:hover {
+.gift-img-first-impression:hover,
+.gift-img-first-impression:active {
     background-image: url("images/first_impression.gif");
 }
 
-.gift-img-cat-dancing:hover {
+.gift-img-cat-dancing:hover,
+.gift-img-cat-dancing:active {
     background-image: url("images/cat_dancing.gif");
 }
 
-.gift-img-me-realizing:hover {
+.gift-img-me-realizing:hover,
+.gift-img-me-realizing:active {
     background-image: url("images/me_realizing.gif");
 }
 
-.gift-img-dancing-group:hover {
+.gift-img-dancing-group:hover,
+.gift-img-dancing-group:active {
     background-image: url("images/cat_dancing_group.gif");
 }
 
-.gift-img-omw:hover {
+.gift-img-omw:hover,
+.gift-img-omw:active {
     background-image: url("images/cat_omw.gif");
     background-position: center;
 }
 
-.gift-img-thinking:hover {
+.gift-img-thinking:hover,
+.gift-img-thinking:active {
     background-image: url("images/cat_thinking.gif");
 }
 
-.gift-img-happy:hover {
+.gift-img-happy:hover,
+.gift-img-happy:active {
     background-image: url("images/cat_happy.gif");
 }
 
-.gift-img-annoy:hover {
+.gift-img-annoy:hover,
+.gift-img-annoy:active {
     background-image: url("images/cat_annoy.gif");
 }
 
-.gift-img-idc:hover {
+.gift-img-idc:hover,
+.gift-img-idc:active {
     background-image: url("images/cat_idc.gif");
 }
 
-.gift-img-biting:hover {
+.gift-img-biting:hover,
+.gift-img-biting:active {
     background-image: url("images/cat_biting.gif");
     background-position: center;
 }
 
-.gift-img-energy:hover {
+.gift-img-energy:hover,
+.gift-img-energy:active {
     background-image: url("images/cat_energy.gif");
 }
 
-.gift-img-humor:hover {
+.gift-img-humor:hover,
+.gift-img-humor:active {
     background-image: url("images/cat_humor.gif");
 }
 
-.gift-img-confidence:hover {
+.gift-img-confidence:hover,
+.gift-img-confidence:active {
     background-image: url("images/cat_confidence.gif");
 }
 
-.gift-img-kindness:hover {
+.gift-img-kindness:hover,
+.gift-img-kindness:active {
     background-image: url("images/cat_kindness.gif");
 }
 
-.gift-img-playing:hover {
+.gift-img-playing:hover,
+.gift-img-playing:active {
     background-image: url("images/cat_playing.gif");
 }
 
-.gift-img-show-up:hover {
+.gift-img-show-up:hover,
+.gift-img-show-up:active {
     background-image: url("images/cat_show_up.gif");
     background-position: center;
 }
 
-.gift-img-innocent:hover {
+.gift-img-innocent:hover,
+.gift-img-innocent:active {
     background-image: url("images/cat_innocent.gif");
 }
 
