@@ -26,7 +26,7 @@ h1, h2, h3, h4 {
     margin-bottom: 10px;
 }
 
-#let-me-tell-a-story {
+.let-me-tell-a-story {
     background: #EFB0C9;
     color: #6E2E45;
     padding: 5px 10px;
@@ -34,7 +34,7 @@ h1, h2, h3, h4 {
     margin: 5px 0 10px 0;
 }
 
-#bday-date {
+.note {
     margin: 0;
     background: #EFB0C9;
     color: #6E2E45;
@@ -59,10 +59,6 @@ h1, h2, h3, h4 {
 
 .gift-title {
     margin-bottom: 10px;
-}
-
-.gift-hint {
-    margin-top: 0;
 }
 
 .gift-img {
@@ -175,9 +171,3 @@ h1, h2, h3, h4 {
 .gift-img-innocent:focus {
     background-image: url("images/cat_innocent.gif");
 }
-
-
-a {
-    color: #C24B7A;
-}
-
