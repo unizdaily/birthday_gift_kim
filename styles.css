@@ -73,6 +73,7 @@ h1, h2, h3, h4 {
     border-radius: 10px;
     background-image: url("images/tap_to_reveal.jpg");
     background-size: cover;
+    outline: none;
 }
 
 .gift-img-dancing-group {
@@ -83,95 +84,95 @@ h1, h2, h3, h4 {
 }
 
 .gift-img-serious:hover,
-.gift-img-serious:active {
+.gift-img-serious:focus {
     background-image: url("images/cat_serious.gif");
 }
 
 .gift-img-first-impression:hover,
-.gift-img-first-impression:active {
+.gift-img-first-impression:focus {
     background-image: url("images/first_impression.gif");
 }
 
 .gift-img-cat-dancing:hover,
-.gift-img-cat-dancing:active {
+.gift-img-cat-dancing:focus {
     background-image: url("images/cat_dancing.gif");
 }
 
 .gift-img-me-realizing:hover,
-.gift-img-me-realizing:active {
+.gift-img-me-realizing:focus {
     background-image: url("images/me_realizing.gif");
 }
 
 .gift-img-dancing-group:hover,
-.gift-img-dancing-group:active {
+.gift-img-dancing-group:focus {
     background-image: url("images/cat_dancing_group.gif");
 }
 
 .gift-img-omw:hover,
-.gift-img-omw:active {
+.gift-img-omw:focus {
     background-image: url("images/cat_omw.gif");
     background-position: center;
 }
 
 .gift-img-thinking:hover,
-.gift-img-thinking:active {
+.gift-img-thinking:focus {
     background-image: url("images/cat_thinking.gif");
 }
 
 .gift-img-happy:hover,
-.gift-img-happy:active {
+.gift-img-happy:focus {
     background-image: url("images/cat_happy.gif");
 }
 
 .gift-img-annoy:hover,
-.gift-img-annoy:active {
+.gift-img-annoy:focus {
     background-image: url("images/cat_annoy.gif");
 }
 
 .gift-img-idc:hover,
-.gift-img-idc:active {
+.gift-img-idc:focus {
     background-image: url("images/cat_idc.gif");
 }
 
 .gift-img-biting:hover,
-.gift-img-biting:active {
+.gift-img-biting:focus {
     background-image: url("images/cat_biting.gif");
     background-position: center;
 }
 
 .gift-img-energy:hover,
-.gift-img-energy:active {
+.gift-img-energy:focus {
     background-image: url("images/cat_energy.gif");
 }
 
 .gift-img-humor:hover,
-.gift-img-humor:active {
+.gift-img-humor:focus {
     background-image: url("images/cat_humor.gif");
 }
 
 .gift-img-confidence:hover,
-.gift-img-confidence:active {
+.gift-img-confidence:focus {
     background-image: url("images/cat_confidence.gif");
 }
 
 .gift-img-kindness:hover,
-.gift-img-kindness:active {
+.gift-img-kindness:focus {
     background-image: url("images/cat_kindness.gif");
 }
 
 .gift-img-playing:hover,
-.gift-img-playing:active {
+.gift-img-playing:focus {
     background-image: url("images/cat_playing.gif");
 }
 
 .gift-img-show-up:hover,
-.gift-img-show-up:active {
+.gift-img-show-up:focus {
     background-image: url("images/cat_show_up.gif");
     background-position: center;
 }
 
 .gift-img-innocent:hover,
-.gift-img-innocent:active {
+.gift-img-innocent:focus {
     background-image: url("images/cat_innocent.gif");
 }
 
